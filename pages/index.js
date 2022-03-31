@@ -5,6 +5,7 @@ export default function Home() {
     <div className="container" style={{ textAlign: "center" }}>
       <h1>Actividad 7.2</h1>
       <i>Buen día profesor. </i>
+      <br />
       <strong>Nombre:</strong> Santiago Gabriel Vallejo García
       <br />
       <strong>Matrícula:</strong>A01631816
